@@ -33,6 +33,19 @@ AAA = 4;
 console.log(BBB, AAA);
 // output 216 4
 
-// String
+/* String
 const what = "SangGyu"
 console.log(what);
+*/
+
+/* Boolean
+const what = true;
+*/
+
+/* Number
+const what = 777;
+*/
+
+/* Float
+const what = 55.1;
+*/
