@@ -1,2 +1,2 @@
 # Vanilla_JS
-Vanilla JS
+##Nomadcoders Vanilla JS class
